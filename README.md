@@ -3,7 +3,7 @@
 https://studentrecords-dbc25.web.app/
 # Technologies Used
 React JS (front-end)
-mockapi (Making mock API)
+mockapi.io (Making mock API)
 
 # Completed the following features
 Created a mock API using beeceptor.
