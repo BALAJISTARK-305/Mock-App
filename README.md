@@ -16,7 +16,7 @@ App deployed in Firebase.
 # Note
 My API Link->https://60c72aaf06f3160017d28aae.mockapi.io/studentRecords
 
-Most importantly we can only make 50 request/day using this beeceptor API link. So if users not displayed, there 429 Status code error (Too many requests).
+
 
 
 # Getting Started with Create React App
