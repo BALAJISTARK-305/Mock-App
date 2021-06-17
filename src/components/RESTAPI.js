@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card, Icon, Header, Image, Button } from 'semantic-ui-react'
+import { Card, Image, Button } from 'semantic-ui-react'
 import './restapi.css';
 import './script';
 
